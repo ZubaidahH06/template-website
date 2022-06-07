@@ -43,7 +43,7 @@ function runit() {
 } 
 </script> 
 
-<h3>Try This</h3> 
+<h3>Zubaidah's Python Code</h3> 
 <form> 
 <textarea id="yourcode" cols="40" rows="10">
 import turtle
